@@ -19,6 +19,7 @@ public class OperationsOnStringList {
 			System.out.println("5. Exit");
 			
 			int option = sc.nextInt();
+			
 			if(option >= 1 && option <=5) {
 				switch(option) {
 				case 1:
