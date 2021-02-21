@@ -65,5 +65,4 @@ public class OperationsOnStringList {
 		}
 		sc.close();
 	}
-
 }
