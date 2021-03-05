@@ -8,9 +8,12 @@ public class OperationsOnStringList {
 	public static void main(String[] args) throws IOException {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
 		Scanner sc = new Scanner(System.in);
+		
 		ArrayList <String> al = new ArrayList<String>();
 		boolean flag = true;
+		
 		while(flag) {
 			System.out.println("1. Insert");
 			System.out.println("2. Search");
